@@ -32,6 +32,9 @@ var qna = [
   },{
    question : "What kind of books does he like most: Fiction/Non-fiction?\n ",
     answer : "Non-fiction" 
+  },{
+   question : "What kind of person he is? Spiritual/Party person?\n ",
+    answer : "Spiritual" 
   }
 ]
 
